@@ -47,3 +47,8 @@ $ react-native run-ios
 or
 $ react-native run-android
 ```
+
+Demo
+----------
+
+![Demo](./img/vnd-sample.gif)
