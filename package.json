@@ -11,6 +11,7 @@
   "dependencies": {
     "react": "16.3.1",
     "react-native": "0.55.4",
+    "react-native-dom": "0.2.0",
     "vue-native-core": "^0.0.5",
     "vue-native-helper": "^0.0.8"
   },
