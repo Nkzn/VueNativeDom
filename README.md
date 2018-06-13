@@ -18,3 +18,32 @@ And this sample works as below!
 ![How Vue Native DOM Works?](./img/vnd.png)
 
 Vue Native translates Vue into React, so React Native recognizes application codes as React.
+
+Getting Started
+----------
+
+### Install
+
+```
+$ yarn install
+```
+
+### Start Dev Server
+
+```
+$ yarn start
+```
+
+### Run on Browser
+
+Nothing to do on terminal!
+
+Access http://localhost:8081 !
+
+### Run on Device / Emulator
+
+```
+$ react-native run-ios
+or
+$ react-native run-android
+```
