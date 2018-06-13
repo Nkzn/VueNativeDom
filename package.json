@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "0.55.4"
+    "react-native": "0.55.4",
+    "vue-native-core": "^0.0.5",
+    "vue-native-helper": "^0.0.8"
   },
   "devDependencies": {
     "babel-jest": "23.0.1",
