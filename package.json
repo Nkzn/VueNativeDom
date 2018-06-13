@@ -20,6 +20,7 @@
     "jest": "23.1.0",
     "react-native-cli": "^2.0.1",
     "react-test-renderer": "16.3.1",
+    "rnpm-plugin-dom": "^0.1.1",
     "vue-native-scripts": "^0.0.8"
   },
   "jest": {
