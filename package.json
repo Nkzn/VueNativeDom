@@ -1,5 +1,6 @@
 {
-  "name": "VueNativeDom",
+  "name": "vue-native-dom",
+  "description": "Vue Native & React Native DOM Sample",
   "version": "0.0.1",
   "private": true,
   "scripts": {
